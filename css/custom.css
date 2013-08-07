@@ -1,0 +1,26 @@
+ul.nav {
+	background-color: rgb(245, 245, 245);
+	border-radius:5px;
+}
+ul.nav li.active{
+	background-color: rgb(225, 225, 225);
+	border-radius:5px;
+}
+
+.affix {
+ 	position: fixed; 
+  	top: 80px;
+  	width: 220px;
+	border-radius: 5px;
+}
+	
+.navbar-font{
+	margin-right: 5px;
+}
+footer.bs-footer {
+padding-top: 40px;
+padding-bottom: 30px;
+margin-top: 100px;
+text-align: center;
+border-top: 1px solid #e5e5e5;
+}
